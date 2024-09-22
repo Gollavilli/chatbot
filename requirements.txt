@@ -1,0 +1,11 @@
+boto3
+awscli
+pypdf
+langchain
+streamlit
+faiss-cpu
+pandas
+numpy
+langchain-community
+langchain-aws
+pydantic
